@@ -10,7 +10,7 @@ namespace SoapXml_WebCore.Services
     {
         string IOperationService.Operation(string s)
         {
-            Console.WriteLine(s + " XYZ");
+            Console.WriteLine(s + " XYZABC");
             return s;
         }
 
